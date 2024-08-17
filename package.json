@@ -1,0 +1,14 @@
+{
+  "name": "nexter-project",
+  "version": "1.0.0",
+  "description": "nexter webpage",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
